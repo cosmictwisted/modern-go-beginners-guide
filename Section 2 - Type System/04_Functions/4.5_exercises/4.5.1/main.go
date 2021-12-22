@@ -1,0 +1,1 @@
+// create a function which returns factorial of an int

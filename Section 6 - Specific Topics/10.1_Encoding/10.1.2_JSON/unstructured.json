@@ -1,0 +1,30 @@
+[
+    {   
+        "id": 1,
+        "first_name": "Anil",
+        "last_name": "Kulkarni",
+        "email": "anil@example.com",
+        "age": 13,
+        "is_active": true
+    },
+    {
+        "id": 2,
+        "first_name": "Teja",
+        "last_name": "Jadhav",
+        "email": "teja@example.com",
+        "age": 22,
+        "is_staff": false
+    },
+    {
+        "id": 3,
+        "first_name": "John",
+        "email": "john@example.com",
+        "is_spam": true
+    },
+    {
+        "first_name": "Rachael",
+        "last_name": "Adams",
+        "email": "rachael@example.com",
+        "age": 23
+    }
+]
